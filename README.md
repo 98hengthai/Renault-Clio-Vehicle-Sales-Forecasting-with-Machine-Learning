@@ -1,6 +1,11 @@
+About the project
+•	Predicted the future vehicle sales base on the previous sales database using scikit-learn python library with an average accuracy of 90%. 
+
+
 Please ensure you have the proper libraries downloaded by following installation instructions on their sites:
     https://scikit-learn.org/stable/install.html
     https://matplotlib.org/users/installing.html
+    
     
 For running the "prediction" programs for a model:
     1. Download DemandData.txt
@@ -11,6 +16,7 @@ For running the "prediction" programs for a model:
     4. Input how many months from the end of the training you would like to predict
         You cannot predict beyond October 2018, as that is the final data point to give an accuracy
         For example: If you entered "1 7 12 17", the maximum value for months ahead would be 10
+        
         
 For running the "k-Fold" programs for a model:
     1. Download DemandData.txt
