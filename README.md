@@ -1,5 +1,5 @@
 About the project
-•	Predicted the future vehicle sales base on the previous sales database using scikit-learn python library with an average accuracy of 90%. 
+	Predicted the future vehicle sales base on the previous sales database using scikit-learn python library with an average accuracy of 90%. 
 
 
 Please ensure you have the proper libraries downloaded by following installation instructions on their sites:
