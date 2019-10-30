@@ -17,7 +17,7 @@ For running the "prediction" programs for a model:
         You cannot predict beyond October 2018, as that is the final data point to give an accuracy
         For example: If you entered "1 7 12 17", the maximum value for months ahead would be 10
         
-       
+      
 For running the "k-Fold" programs for a model:
     1. Download DemandData.txt
     2. Run the program with DemandData.txt
